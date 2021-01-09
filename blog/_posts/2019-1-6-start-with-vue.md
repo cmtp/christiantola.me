@@ -1,4 +1,5 @@
 ---
+title: Desarrollo Progresivo con Vue.js
 date: 2019-1-6
 author: Christian Tola
 location: Bolivia
@@ -35,8 +36,6 @@ meta:
   - name: twitter:image
     content: https://christiantola.me/images/banners/BannerTemplateVue.jpg
 ---
-
-# Desarrollo Progresivo con Vue.js
 
 <Banner url="start-with-vue.jpg" alt="start with vue"/>
 

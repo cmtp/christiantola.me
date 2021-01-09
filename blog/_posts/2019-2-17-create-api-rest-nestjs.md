@@ -1,4 +1,5 @@
 ---
+title: Crear un api rest con Nest.js
 date: 2019-2-17
 author: Christian Tola
 location: Bolivia
@@ -35,8 +36,6 @@ meta:
   - name: twitter:image
     content: https://christiantola.me/images/banners/BannerTemplateNode.jpg
 ---
-
-# Crear un Api Rest con Nest.js
 
 <Banner url="create-api-rest-nestjs.jpg" alt="create api rest nest"/>
 

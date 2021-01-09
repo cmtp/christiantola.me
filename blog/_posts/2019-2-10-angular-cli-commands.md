@@ -1,4 +1,5 @@
 ---
+title: Comandos en Angular CLI
 date: 2019-2-10
 tags: 
   - angular
@@ -36,8 +37,6 @@ meta:
   - name: twitter:image
     content: https://christiantola.me/images/banners/BannerTemplateAngular.jpg
 ---
-
-# Comandos en Angular CLI
 
 <Banner url="angular-cli-commands.jpg" alt="Angular CLI Commands"/>
 

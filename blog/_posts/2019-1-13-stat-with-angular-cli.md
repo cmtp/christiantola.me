@@ -1,4 +1,5 @@
 ---
+title: Iniciando con Angular CLI
 date: 2019-1-13
 author: Christian Tola
 tags: 
@@ -35,8 +36,6 @@ meta:
   - name: twitter:image
     content: https://christiantola.me/images/banners/BannerTemplateAngular.jpg
 ---
-
-# Iniciando con Angular CLI
 
 <Banner url="start-with-angular-cli.jpg" alt="start with angular cli"/>
 

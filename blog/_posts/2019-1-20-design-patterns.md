@@ -1,4 +1,5 @@
 ---
+title: Patrones de diseño
 date: 2019-1-20
 author: Christian Tola
 tags: 
@@ -36,8 +37,6 @@ meta:
   - name: twitter:image
     content: https://christiantola.me/images/banners/BannerTemplateJavascript.jpg
 ---
-
-# Patrones de Diseño
 
 <Banner url="design-patterns.jpg" alt="Design patterns"/>
 

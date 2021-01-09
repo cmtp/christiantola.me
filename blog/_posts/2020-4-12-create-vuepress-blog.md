@@ -1,4 +1,5 @@
 ---
+title: Crear un Blog con Vue.js y Vuepress
 date: 2020-4-12
 author: Christian Tola
 location: Bolivia
@@ -36,8 +37,6 @@ meta:
   - name: twitter:image
     content: https://christiantola.me/images/banners/BannerTemplateVuePress.jpg
 ---
-
-# Crear un Blog con Vue.js y Vuepress
 
 <Banner url="BannerTemplateVuePress.jpg" alt="Blog con Vue.js"/>
 

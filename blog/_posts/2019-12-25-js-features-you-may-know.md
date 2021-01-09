@@ -1,4 +1,5 @@
 ---
+title: Características de Javascript que aprender
 date: 2019-12-25
 author: Christian Tola
 tags: 
@@ -35,8 +36,6 @@ meta:
   - name: twitter:image
     content: https://christiantola.me/images/banners/BannerTemplateJavascript.jpg
 ---
-
-# Características de Javascript que aprender
 
 <Banner alt="Características de Javascript que aprender"/>
 

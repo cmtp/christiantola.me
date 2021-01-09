@@ -1,4 +1,5 @@
 ---
+title: Código Limpio
 date: 2019-1-3
 tags: 
     - code
@@ -36,8 +37,6 @@ meta:
   - name: twitter:image
     content: https://christiantola.me/images/posts/clean-code.jpg
 ---
-
-# Código Limpio parte 1
 
 <Banner url="clean-code.jpg" alt="Clean code"/>
 

@@ -1,4 +1,5 @@
----      
+---
+title: Archivo de Configuración y Rutas con VuePress
 date: 2020-4-19
 tags:
   - vue
@@ -37,8 +38,6 @@ meta:
   - name: twitter:image
     content: https://christiantola.me/images/banners/BannerTemplateVuePress.jpg
 ---
-
-# Archivo de Configuración y Rutas con VuePress
 
 <Banner url="BannerTemplateVuePress.jpg" alt="Blog con Vue.js"/>
 
@@ -90,7 +89,7 @@ Fuera de la carpeta de configuración _.vuepress_ se encuentra todo el contenido
 │ └── post-number-two.md
 ├──
 ```
-
+<!-- more -->
 Nuestra estructura de archivos nos ayudara a crear rutas de manera sencilla siguiendo las siguientes reglas:
 
 1.  Los archivos _README.md_ equivalen a la ruta _"/"_ en nuestro proyecto
