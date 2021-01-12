@@ -12,7 +12,7 @@ meta:
   # - property: fb:app_id
   #   content: 
   - property: og:url
-    content: https://christiantola.me/blog/clean-code.html
+    content: https://christiantola.me/2019/01/03/codigo-limpio/
   - property: og:type
     content: article
   - property: og:title
