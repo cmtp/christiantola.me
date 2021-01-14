@@ -4,7 +4,7 @@ date: 2019-12-25
 author: Christian Tola
 tags: 
   - javascript
-type: Javascript
+type: post
 location: Bolivia
 meta:
 #  facebook metadata

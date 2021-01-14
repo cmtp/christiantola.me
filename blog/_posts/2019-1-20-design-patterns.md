@@ -6,7 +6,7 @@ tags:
   - code
   - patterns
   - javascript
-type: Javascript
+type: post
 meta:
 #  facebook metadata
   # - property: fb:app_id

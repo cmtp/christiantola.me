@@ -5,7 +5,7 @@ author: Christian Tola
 location: Bolivia
 tags: 
   - nodejs
-type: Node
+type: post
 meta:
 #  facebook metadata
   # - property: fb:app_id

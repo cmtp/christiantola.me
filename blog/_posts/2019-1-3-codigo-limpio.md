@@ -4,7 +4,7 @@ date: 2019-1-3
 tags: 
     - code
     - patterns
-type: Code
+type: post
 author: Christian Tola
 location: Bolivia
 meta:

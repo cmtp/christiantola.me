@@ -59,12 +59,12 @@ module.exports = {
         link: "/",
       },
       {
-        text: "Sobre Mi",
-        link: "/about/",
-      },
-      {
         text: "Tags",
         link: "/tag/",
+      },
+      {
+        text: "Sobre Mi",
+        link: "/about/",
       },
       {
         text: "Contacto",
@@ -78,12 +78,20 @@ module.exports = {
       contact: [
         {
           type: "github",
-          link: "https://github.com/ulivz",
+          link: "https://github.com/ctola91",
         },
         {
           type: "twitter",
-          link: "https://twitter.com/_ulivz",
+          link: "https://twitter.com/ctola91",
         },
+        {
+          type: "linkedin",
+          link: "https://www.linkedin.com/in/christian-marcelo-tola-pacheco-436171113/",
+        },
+        {
+          type: "instagram",
+          link: "https://www.instagram.com/ctola91/"
+        }
       ],
       copyright: [
         {
@@ -91,11 +99,17 @@ module.exports = {
           link: "https://policies.google.com/privacy?hl=en-US",
         },
         {
-          text: "MIT Licensed | Copyright © 2018-present Vue.js",
+          text: "MIT Licensed | Copyright © 2021-present christiantola.me",
           link: "",
         },
       ],
     },
+    feed: {
+      canonical_base: 'https://christiantola.me',
+    },
+    sitemap: {
+      hostname: 'https://christiantola.me'
+    }
   },
   plugins: [
     [

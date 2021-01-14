@@ -4,7 +4,7 @@ date: 2019-2-10
 tags: 
   - angular
   - vuepress
-type: Angular
+type: post
 author: Christian Tola
 location: Bolivia
 meta:

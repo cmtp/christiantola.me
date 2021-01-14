@@ -5,7 +5,7 @@ tags:
   - vue
   - blog
   - vuepress
-type: VuePress
+type: post
 author: Christian Tola
 location: Bolivia
 meta:

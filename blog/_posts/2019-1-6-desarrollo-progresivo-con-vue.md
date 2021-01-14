@@ -5,7 +5,7 @@ author: Christian Tola
 location: Bolivia
 tags: 
   - vue
-type: Vue
+type: post
 meta:
 #  facebook metadata
   # - property: fb:app_id

@@ -6,7 +6,7 @@ location: Bolivia
 tags: 
   - vue
   - vuepress
-type: VuePress
+type: post
 meta:
 #  facebook metadata
   # - property: fb:app_id

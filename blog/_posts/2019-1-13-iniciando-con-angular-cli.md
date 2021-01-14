@@ -4,7 +4,7 @@ date: 2019-1-13
 author: Christian Tola
 tags: 
   - angular
-type: Angular
+type: post
 location: Bolivia
 meta:
 #  facebook metadata
