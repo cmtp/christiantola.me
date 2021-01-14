@@ -38,7 +38,7 @@ meta:
     content: https://christiantola.me/images/banners/BannerTemplateAngular.jpg
 ---
 
-<Banner url="angular-cli-commands.jpg" alt="Angular CLI Commands"/>
+<WebImage name="banners/BannerTemplateAngular.jpg" alt="Angular CLI Commands"/>
 
 En este post veremos mas a profundidad los comandos que el Angular CLI nos ofrece y su uso.
 

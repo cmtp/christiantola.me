@@ -38,7 +38,7 @@ meta:
     content: https://christiantola.me/images/banners/BannerTemplateVuePress.jpg
 ---
 
-<Banner url="BannerTemplateVuePress.jpg" alt="Blog con Vue.js"/>
+<WebImage name="banners/BannerTemplateVuePress.jpg" alt="Blog con Vue.js"/>
 
 [VuePress](https://vuepress.vuejs.org/) es un generador de sitios estáticos basado en el framework vue.js, provee un generador minimalista de sitios estáticos con soporte de temas basado en componentes de Vue.js, una API para el soporte de plugins, y un tema por defecto optimizado para la escritura de documentación técnica, originalmente creado para soportar la documentación del framework Vue.js y sus proyectos secundarios.
 

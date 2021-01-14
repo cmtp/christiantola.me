@@ -37,7 +37,7 @@ meta:
     content: https://christiantola.me/images/banners/BannerTemplateJavascript.jpg
 ---
 
-<Banner alt="Características de Javascript que aprender"/>
+<WebImage name="banners/BannerTemplateJavascript.jpg" alt="Config Routing"/>
 
 ## Introducción 
 

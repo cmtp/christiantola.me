@@ -37,7 +37,7 @@ meta:
     content: https://christiantola.me/images/banners/BannerTemplateVue.jpg
 ---
 
-<Banner url="start-with-vue.jpg" alt="start with vue"/>
+<WebImage name="banners/BannerTemplateVue.jpg" alt="start with vue"/>
 
 Vue.js es un Framework Javascript para el desarrollo de interfaces de usuario, su principal característica es la flexibilidad que ofrece al momento de desarrollar tanto aplicaciones pequeñas hasta aplicaciones empresariales de gran tamaño.
 

@@ -21,6 +21,7 @@ export default ({
     { path: '/clean-code', redirect: '/2019/01/03/codigo-limpio/' },
     { path: '/config-routing-vuepress', redirect: '/2020/04/19/configuration-y-routing-en-vuepress/' },
   ]);
+
   import('vue-toastr').then(module => {
     Vue.use(module.default, {
       duration: 6000

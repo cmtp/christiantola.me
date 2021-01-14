@@ -19,12 +19,14 @@
     "@vuepress/plugin-google-analytics": "^1.8.0",
     "@vuepress/plugin-pwa": "^1.8.0",
     "@vuepress/theme-blog": "^2.1.0",
+    "dotenv": "^8.2.0",
     "lite-server": "^2.6.1",
     "push-dir": "^0.4.1",
     "vuepress": "^1.8.0"
   },
   "dependencies": {
     "axios": "^0.21.1",
+    "firebase": "^8.2.2",
     "vue-toastr": "^2.1.2"
   }
 }

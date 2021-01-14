@@ -38,7 +38,7 @@ meta:
     content: https://christiantola.me/images/banners/BannerTemplateJavascript.jpg
 ---
 
-<Banner url="design-patterns.jpg" alt="Design patterns"/>
+<WebImage name="banners/BannerTemplateJavascript.jpg" alt="Design patterns"/>
 
 ## Que son?
 

@@ -35,10 +35,10 @@ meta:
   - name: twitter:description
     content: Que es el código limpio? por que deberíamos escribir código limpio? Aprenderemos mas sobre las bases del código limpio.
   - name: twitter:image
-    content: https://christiantola.me/images/posts/clean-code.jpg
+    content: https://christiantola.me/images/posts/BannerTemplateCode.jpg
 ---
 
-<Banner url="clean-code.jpg" alt="Clean code"/>
+<WebImage name="banners/BannerTemplateCode.jpg" alt="Clean code"/>
 
 *Este es el primer articulo de la serie de código limpio donde iremos agregando consejos de como mejorar nuestro código.*
 

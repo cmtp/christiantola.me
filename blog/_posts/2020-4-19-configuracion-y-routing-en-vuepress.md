@@ -39,7 +39,7 @@ meta:
     content: https://christiantola.me/images/banners/BannerTemplateVuePress.jpg
 ---
 
-<Banner url="BannerTemplateVuePress.jpg" alt="Blog con Vue.js"/>
+<WebImage name="banners/BannerTemplateVuePress.jpg" alt="Config Routing"/>
 
 En este segundo artículo sobre vuepress, veremos el manejo de rutas y el archivo de configuración con vuepress.
 

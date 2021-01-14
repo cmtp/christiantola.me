@@ -37,7 +37,7 @@ meta:
     content: https://christiantola.me/images/banners/BannerTemplateAngular.jpg
 ---
 
-<Banner url="start-with-angular-cli.jpg" alt="start with angular cli"/>
+<WebImage name="banners/BannerTemplateAngular.jpg" alt="start with angular cli"/>
 
 Bienvenidos, en este post veremos las ventajas de utilizar Angular CLI dentro de nuestro flujo de trabajo
 
