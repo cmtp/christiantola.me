@@ -1,6 +1,6 @@
 module.exports = {
   title: "christiantola.me",
-  description: "This is a blog example built by VuePress",
+  description: "Desarrollador Javascript, Ingeniero de Sistemas, Apasionado de la programación.",
   head: [
     [
       "link",

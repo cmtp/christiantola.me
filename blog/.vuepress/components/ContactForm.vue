@@ -43,12 +43,11 @@
         <h2>{{ socialLabel }}</h2>
         <div class="place">
           <p><i class="fa fa-map-marker"></i> Cochabamba, Bolivia</p>
-          <p><i class="fa fa-envelope"></i> ctolapacheco@gmail.com</p>
           <div class="social-networks">
             <a href="https://twitter.com/ctola91" class="twitter">
               <i class="fa fa-2x fa-twitter"></i>
             </a>
-            <a href="https://github.com/cmtp" class="github">
+            <a href="https://github.com/ctola91" class="github">
               <i class="fa fa-2x fa-github"></i>
             </a>
             <a
