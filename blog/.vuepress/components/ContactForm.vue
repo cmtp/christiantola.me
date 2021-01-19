@@ -117,7 +117,7 @@ export default {
         };
         grecaptcha.ready(function() {
           grecaptcha
-            .execute("6LcCmNEUAAAAABtpW4cic7ehTh_aCpyFQWiiSZQM", {
+            .execute("6LdBWDIaAAAAAM3Johh01Gxws7ue03ZCngjSeg0Z", {
               action: "contactform"
             })
             .then(function(token) {

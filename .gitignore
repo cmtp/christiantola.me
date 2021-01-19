@@ -12,3 +12,4 @@ config.local.js
 basement_dist
 .firebase
 blog/.vuepress/services/constants.json
+functions/permissions.json

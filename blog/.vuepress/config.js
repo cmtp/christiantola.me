@@ -38,7 +38,7 @@ module.exports = {
       "script",
       {
         src:
-          "https://www.google.com/recaptcha/api.js?render=6LcCmNEUAAAAABtpW4cic7ehTh_aCpyFQWiiSZQM",
+          "https://www.google.com/recaptcha/api.js?render=6LdBWDIaAAAAAM3Johh01Gxws7ue03ZCngjSeg0Z",
       },
     ],
   ],
